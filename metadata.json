@@ -1,0 +1,6 @@
+{
+  "name": "Evolmeo.ai - Enterprise AI Executive Coaching",
+  "description": "Enterprise-grade AI coaching and personal growth platform delivering continuous executive reflection, diagnostics, and leadership development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
